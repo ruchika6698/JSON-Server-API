@@ -24,7 +24,6 @@ var faker = require('faker')
          	"City" : city
       	})
    	}
-
    	return { "employees" : employees }
 	}
 
