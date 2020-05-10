@@ -1,0 +1,31 @@
+{
+  "employees": [
+   {
+		"id": 1,
+      "First_name": "kanishka",
+      "Last_name": "More",
+      "email": "kanishka@gmail.com",
+      "Mobile_Number": 9913057778,
+      "Company": "Bridgelabz",
+		"City":"Mumbai"
+	}, 
+	{
+      "id": 2,
+      "First_name": "Sarika",
+      "Last_name": "Sawant",
+      "email": "sarika@gmail.com",
+      "Mobile_Number": 9523057778,
+      "Company": "Bridgelabz",
+		"City":"Pune"
+    },
+    {
+      "id": 3,
+      "First_name": "Suresh",
+      "Last_name": "Pawar",
+      "email": "suresh@gmail.com",
+      "Mobile_Number": 8475275454,
+      "Company": "Bridgelabz",
+		"City":"Banglore"
+    }
+  ]
+}
